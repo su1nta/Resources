@@ -4,9 +4,9 @@ Development Related resources are available here
 Web
 -----
 - Wavesurfer.js : Wavesurfer is a JavaScript framework that visualizes music as a waveform.
- - https://wavesurfer-js.org/
+  - https://wavesurfer-js.org/
 - JavaScript30 : 30 Day Vanilla JS Coding Challenge.
- - https://javascript30.com/
+  - https://javascript30.com/
 
 Custom Rom
 -----
