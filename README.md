@@ -7,7 +7,7 @@ Web
   - https://wavesurfer-js.org/
 - JavaScript30 : 30 Day Vanilla JS Coding Challenge.
   - https://javascript30.com/
-- The Odin Project : An amazing project to learn JavaScript and Ruby in Rails with fun projects.
+- The Odin Project : An amazing project to learn JavaScript and Ruby on Rails with fun projects.
   - https://www.theodinproject.com/
 
 Custom Rom
