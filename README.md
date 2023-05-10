@@ -14,3 +14,8 @@ Custom Rom
 -----
 - Introduction to AOSP : https://blog.realogs.in/getting-started-with-aosp/
 - Android Device Tree Bringup : https://blog.realogs.in/android-device-tree-bringup/
+
+Dev
+-----
+- Monolithic and Microservices Architecture: 
+https://henriquesd.medium.com/monolithic-microservices-architecture-239e8799d3e1
