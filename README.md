@@ -9,10 +9,10 @@ Web
 
 Custom Rom
 -----
-- `Blog`: [Introduction to AOSP](https://blog.realogs.in/getting-started-with-aosp/)
-- `Blog`: [Android Device Tree Bringup](https://blog.realogs.in/android-device-tree-bringup/)
+- `Blog` [Introduction to AOSP](https://blog.realogs.in/getting-started-with-aosp/)
+- `Blog` [Android Device Tree Bringup](https://blog.realogs.in/android-device-tree-bringup/)
 
 Dev
 -----
-- `Blog`: [Monolithic and Microservices Architecture](https://henriquesd.medium.com/monolithic-microservices-architecture-239e8799d3e1)
-- `Video`: [Learn C++ in perspective of Game Development](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- `Blog` [Monolithic and Microservices Architecture](https://henriquesd.medium.com/monolithic-microservices-architecture-239e8799d3e1)
+- `Video` [Learn C++ in perspective of Game Development](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
