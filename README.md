@@ -6,6 +6,8 @@ Web
 - [Wavesurfer.js](https://wavesurfer-js.org/) : Wavesurfer is a JavaScript framework that visualizes music as a waveform.
 - [JavaScript30](https://javascript30.com/) : 30 Day Vanilla JS Coding Challenge.
 - [The Odin Project](https://www.theodinproject.com/) : An amazing project to learn JavaScript and Ruby on Rails with fun projects.
+- [Loading.io](https://loading.io/) : various Free and Paid loading icons available in different formats
+- [SVGrepo](https://www.svgrepo.com/): A huge collection of open-licensed svg icons and vectors
 
 Custom Rom
 -----
