@@ -8,6 +8,7 @@ Web
 - [The Odin Project](https://www.theodinproject.com/) : An amazing project to learn JavaScript and Ruby on Rails with fun projects.
 - [Loading.io](https://loading.io/) : various Free and Paid loading icons available in different formats
 - [SVGrepo](https://www.svgrepo.com/): A huge collection of open-licensed svg icons and vectors
+- [Portfolio with Circular motion](https://wannabedev.io/tutorials/portfolio-website-concept-with-advanced-circular-motion): Wannabedev - portfolio with a nice circular motion
 
 Custom Rom
 -----
