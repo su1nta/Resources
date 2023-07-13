@@ -8,7 +8,7 @@ Development Related resources are available here
 - [Loading.io](https://loading.io/) : various Free and Paid loading icons available in different formats
 - [SVGrepo](https://www.svgrepo.com/): A huge collection of open-licensed svg icons and vectors
 - [Portfolio with Circular motion](https://wannabedev.io/tutorials/portfolio-website-concept-with-advanced-circular-motion): Wannabedev - portfolio with a nice circular motion
-- [npm - Markdown to PDF](https://www.npmjs.com/package/md-to-pdf)
+- [npm - Markdown to PDF](https://www.npmjs.com/package/md-to-pdf) - self explanatory
 ### Custom Rom
 - `Blog` [Introduction to AOSP](https://blog.realogs.in/getting-started-with-aosp/)
 - `Blog` [Android Device Tree Bringup](https://blog.realogs.in/android-device-tree-bringup/)
