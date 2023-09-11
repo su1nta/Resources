@@ -15,7 +15,8 @@ Development Related resources are available here
 
 ### Dev
 - `Blog` [Monolithic and Microservices Architecture](https://henriquesd.medium.com/monolithic-microservices-architecture-239e8799d3e1)
-- `Video` [Learn C++ in perspective of Game Development](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- `Video` [Learn C++ in perspective of Game Development](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)]
+- `Website` [Typeform - Create cool forms!](https://typeform.com)
 
 ### Lifestyle
 - `Website` [Alf's room](https://alf-s-room.com/) - This is a Japanese guy's personal Hobby website active long before my birth(I'm a millennial) with some interesting blogs and rooms!
