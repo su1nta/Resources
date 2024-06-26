@@ -20,3 +20,10 @@ Development Related resources are available here
 
 ### Lifestyle
 - `Website` [Alf's room](https://alf-s-room.com/) - This is a Japanese guy's personal Hobby website active long before my birth(I'm a millennial) with some interesting blogs and rooms!
+
+### Design
+- `Font` [uncut.wtf](https://uncut.wtf/)
+- `Font` [FreeFaces](https://www.freefaces.gallery/)
+- `Font` [FontShare](https://www.fontshare.com/)
+- `Font` [Off-Type](https://off-type.com/)
+- `Font` [PangramPangram](https://pangrampangram.com/)
