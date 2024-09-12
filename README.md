@@ -20,6 +20,7 @@ Development Related resources are available here
 
 ### Lifestyle
 - `Website` [Alf's room](https://alf-s-room.com/) - This is a Japanese guy's personal Hobby website active long before my birth(I'm a millennial) with some interesting blogs and rooms!
+- `Script` [MS Windows/ Office Activation](https://github.com/massgravel/Microsoft-Activation-Scripts) - Activate Microsoft Windows/ Office permanently from Powershell
 
 ### Design
 - `Font` [uncut.wtf](https://uncut.wtf/)
