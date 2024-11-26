@@ -29,3 +29,6 @@ Development Related resources are available here
 - `Font` [Off-Type](https://off-type.com/)
 - `Font` [PangramPangram](https://pangrampangram.com/)
 - `Converter` [TinyWow](https://tinywow.com/)
+
+  ### Interview Prep
+  - `Blog` [JS A-Z: Basic to Advanced](https://medium.com/@omkartalekar1112/all-javascript-concepts-a-z-basic-to-advanced-7b7453d5b008)
